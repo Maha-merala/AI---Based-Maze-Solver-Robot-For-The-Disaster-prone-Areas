@@ -1,1 +1,1 @@
-# AI-Based-Maze-Solver-Robot-For-The-Disaster-Prone-Areas
+# AI-Based Maze Solver Robot For The Disaster Prone Areas
